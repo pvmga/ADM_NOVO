@@ -1,0 +1,107 @@
+X-Account-Key: account1
+X-UIDL: UID44568-1303902522
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <comercial@ingaimport.com.br>
+Received: from lx02.r4.net.br by lx02.r4.net.br with LMTP id cKi0GWo731onuAIAw6hOxQ ; Tue, 24 Apr 2018 11:12:58 -0300
+Return-Path: <comercial@ingaimport.com.br>
+Envelope-to: suportegadm@ingasoft.com.br, suportelfp@ingasoft.com.br
+Delivery-date: Tue, 24 Apr 2018 11:12:58 -0300
+Received: from lx01.r4.net.br ([177.84.130.165]:58904) by lx02.r4.net.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256) (Exim 4.89_1) (envelope-from <comercial@ingaimport.com.br>) id 1fAygk-000mar-CT; Tue, 24 Apr 2018 11:12:58 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;d=ingaimport.com.br; s=default; h=Message-ID:Subject:Cc:To:From:Date:Content-Type:MIME-Version:Sender:Reply-To:Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive; bh=PmPPiS4CuuD8G51HoYRNSSxA3DwFS/gv+5rKEvnRPTQ=; b=JDExptXGW7Wg8TvpzgqsXTncCMpTvR12TISu8bt67PfvDs+aH0EopmjX3QYxn3Q7m2IRWhc7PKqyhm6ZanoKVtESQW3JfdIX+XzvFYS+rKcxWoic5nKjHomEJ1ObCh0YgzRrHP3tsoD2tHMJYeQIzOOWSHcpukDqfKqNff32ZP2ZLEcTd/qmhSB04vHLYoJY0nz93gp0m7AOD7q767qteNddzuDy1L2mks1wDSoHqXwRIAy6NHWA8ZAa0Rzo5IRdNaWxqW7eGuTjtLcdpQKq1LlvMHn8KTMYgp1B3ldfaOdZ640HqrT0EAn1n1C7A6ZaBSD1XJGzZ2rSY4brSSe6lw==;
+Received: from [::1] (port=35786 helo=lx01.r4.net.br) by lx01.r4.net.br with esmtpa (Exim 4.89_1) (envelope-from <comercial@ingaimport.com.br>) id 1fAygj-000YWM-9n; Tue, 24 Apr 2018 11:12:57 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0097_01D3DBBD.76978620"
+Date: Tue, 24 Apr 2018 11:12:57 -0300
+From: "Jamila" <comercial@ingaimport.com.br>
+To: <suportelfp@ingasoft.com.br>
+Cc: =?UTF-8?Q?Vin=C3=ADcius?= <suportegadm@ingasoft.com.br>
+Subject: =?UTF-8?Q?Zerar_estoque_Ing=C3=A1_Import?=
+Return-Receipt-To: "Jamila" <comercial@ingaimport.com.br>
+Disposition-Notification-To: "Jamila" <comercial@ingaimport.com.br>
+Message-ID: <4b2fc09375918dc65e8d8cb3f9ff9d50@ingaimport.com.br>
+X-Sender: comercial@ingaimport.com.br
+User-Agent: Roundcube Webmail/1.3.3
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - lx01.r4.net.br
+X-SpamFlt-Status: Not Detected
+X-AntiAbuse: Original Domain - ingasoft.com.br
+X-KASFlt-Status: Version: 5.5.10.47
+X-KASFlt-Status: {Tracking_DKIM, one}
+X-KASFlt-Status: Lua profiles 124000 [Apr 24 2018]
+X-KASFlt-Status: LuaCore: 128 128 d7aa645f57ce6a6ceb7dd78eb333137e5e6b654c
+X-KASFlt-Status: Status: not_detected
+X-KASFlt-Status: Method: none
+X-KASFlt-Status: Rate: 0
+X-KASFlt-Status: 177.84.130.165:7.1.2;www.ingaimport.com.br:7.1.1;d41d8cd98f00b204e9800998ecf8427e.com:7.1.1;ingaimport.com.br:7.1.1;127.0.0.199:7.1.2
+X-KASFlt-Status: DmarcAF: none
+X-SpamFlt-Phishing: Not Detected
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.23548
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - ingaimport.com.br
+X-Get-Message-Sender-Via: lx01.r4.net.br: authenticated_id: comercial@ingaimport.com.br
+X-Authenticated-Sender: lx01.r4.net.br: comercial@ingaimport.com.br
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-From-Rewrite: unmodified, already matched
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0097_01D3DBBD.76978620
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain;
+	charset="UTF-8"
+
+Bom dia Alexandre! 
+
+Conforme contato, por gentileza, zerar o estoque da Ingá Import.
+
+-- 
+
+ATENCIOSAMENTE 
+
+JAMILA G. ALBUNIO 
+
+☏ (44) 3225-2507 
+
+SKYPE: JAMILA.GABRIELA1 
+
+MARINGÁ - PR
+------=_NextPart_000_0097_01D3DBBD.76978620
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset="UTF-8"
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: Verdana,Gen=
+eva,sans-serif'>
+<p>Bom dia Alexandre!</p>
+<p><br /></p>
+<p>Conforme contato, por gentileza, zerar o estoque da Ing&aacute; Import=
+=2E</p>
+<div>-- <br />
+<div class=3D"pre" style=3D"margin: 0; padding: 0; font-family: monospace">
+<p style=3D"text-align: left;"><span style=3D"color: #000000; font-family: =
+'book antiqua', palatino;"><strong>Atenciosamente</strong></span></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: 'comic sans ms',=
+ sans-serif; color: #0000ff; font-size: 14pt;"><strong>Jamila G. Albunio</s=
+trong></span></p>
+<p style=3D"text-align: left;">&nbsp;<img src=3D"http://www.ingaimport.com=
+=2Ebr//imagens/logo.png" width=3D"186" height=3D"86" /></p>
+<p><span><strong>=E2=98=8F (44) 3225-2507</strong></span></p>
+<p><span style=3D"font-family: 'book antiqua', palatino; color: #888888;"><=
+strong>Skype: jamila.gabriela1</strong></span></p>
+<p><span><strong>M</strong></span><strong><span>aring&aacute; - PR</span></=
+strong></p>
+<pre>&nbsp;</pre>
+</div>
+</div>
+</body></html>
+
+------=_NextPart_000_0097_01D3DBBD.76978620--
+
+

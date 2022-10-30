@@ -1,0 +1,12 @@
+//////// ENVIAR ARQUIVOS DO CLIENTE PARA NOSSA EMPRESA ////////
+1° Abra o cmd no cliente
+2° Escolha o caminho onde esta o arquivo a ser transferido. Como por exemplo meu arquivo esta no desktop então digito cd desktop
+3° Após selecionar o caminho do desktop é preciso conectar no servidor INGASOFT. Comando ftp 189.115.55.50
+4° Para se conectar é necessário logar com o usuário ftp. Neste caso vou usar o do fabio pois é ele que esta cadastrado no serviço ftp.
+5° Senha: ingasoft.fabio
+6° Para mandar o arquivo basta digitar send e o nome do arquivo com extensão. Exemplo: send CASHWIN_ARTE.rar. Os arquivos enviados estaram na pasta do fabio no servidor.
+7° Caso digite errado irá aparecer a tag ftp> basta digitar user e depois digitar novamente as credenciais
+
+ingasoft.ddns.net ou ip da internet: 189.115.55.50
+
+https://social.technet.microsoft.com/Forums/pt-BR/172c1eb4-0290-4eca-8b13-094b06858b44/logando-no-ftp-via-arquivo-bat?forum=scriptadminpt

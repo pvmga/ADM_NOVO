@@ -1,0 +1,1134 @@
+X-Account-Key: account3
+X-UIDL: UID23143-1303932177
+X-Mozilla-Status: 0013
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <rafhael.guandalini@sicoobmetropolitano.com.br>
+Received: from lx02.r4.net.br
+	by lx02.r4.net.br with LMTP id QOIcKs3l3FnwHQIAw6hOxQ
+	; Tue, 10 Oct 2017 12:22:53 -0300
+Return-path: <rafhael.guandalini@sicoobmetropolitano.com.br>
+Envelope-to: suportegadm@ingasoft.com.br,
+ thiago@ingasoft.com.br,
+ paulo@ingasoft.com.br,
+ michel@ingasoft.com.br,
+ fabio@ingasoft.com.br
+Delivery-date: Tue, 10 Oct 2017 12:22:53 -0300
+Received: from mail.sicoobpr.com.br ([131.108.146.2]:55261)
+	by lx02.r4.net.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <rafhael.guandalini@sicoobmetropolitano.com.br>)
+	id 1e1wK1-000Z4s-Iu; Tue, 10 Oct 2017 12:22:53 -0300
+Received: from mailserver.sicoobmetropolitano.com.br (mgfsrv049.unicoob.local [10.209.140.4])
+	by mail.sicoobpr.com.br (8.14.4/8.14.4/Debian-4+deb7u1) with ESMTP id v9AFHpt2035683;
+	Tue, 10 Oct 2017 12:17:52 -0300
+Received: from [10.10.20.154] (unknown [177.92.16.166])
+	(Authenticated sender: rafhael.guandalini@sicoobmetropolitano.com.br)
+	by mailserver.sicoobmetropolitano.com.br (Postfix) with ESMTPA id D80B482505;
+	Tue, 10 Oct 2017 12:17:50 -0300 (BRT)
+Subject: =?UTF-8?Q?Re:_Fwd:_Re:_Fwd:_Re:_Emiss=c3=a3o_boletos_Purific?=
+To: SUPORTE GADM <suportegadm@ingasoft.com.br>
+References: <232684ce-ed5c-d8d0-9555-6e924268f3ab@ingasoft.com.br>
+ <acc164ca-33be-bbb0-259b-de6fa68970bb@ingasoft.com.br>
+Cc: Ricardo Wagner Gomes <marketing1@purific.com.br>,
+        Fabio Ingasoft <fabio@ingasoft.com.br>,
+        Thiago Ingasoft <thiago@ingasoft.com.br>,
+        Michel Ingasoft <michel@ingasoft.com.br>,
+        Paulo Ingasoft <paulo@ingasoft.com.br>
+From: Rafhael Guandalini Vieira
+ <rafhael.guandalini@sicoobmetropolitano.com.br>
+Message-ID: <ac25fd60-584d-997d-a2a8-eeef73e9aaba@sicoobmetropolitano.com.br>
+Disposition-Notification-To: Rafhael Guandalini Vieira
+ <rafhael.guandalini@sicoobmetropolitano.com.br>
+Date: Tue, 10 Oct 2017 12:17:53 -0300
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101
+ Thunderbird/45.8.0
+MIME-Version: 1.0
+In-Reply-To: <acc164ca-33be-bbb0-259b-de6fa68970bb@ingasoft.com.br>
+Content-Type: multipart/alternative;
+ boundary="------------081B1884B5A128A6F002029A"
+X-Bayes-Prob: 0.5 (Score 0: No Bayes scoring rules defined, tokens from: saida)
+X-CanIt-Geo: No geolocation information available for 10.209.140.4
+X-CanItPRO-Stream: saida
+X-Canit-Stats-ID: 01UjPhQkS - c99610e479a9
+X-Scanned-By: CanIt (www . roaringpenguin . com) on 10.209.255.5
+Received-SPFBL: PASS http://spfbl.r4.net.br/Sf-i8Lz5odjJW-i_kcBX7DT-sVRCMn_IeHycCH2JT21R-jR-9N2o-BirptlTDnyLEl-_E21VdLa14z5XNUaLunmNUD6Q3PRNGsMv7dmOOFUfhAzsRcw3MaNp7OUCLjvX
+Received-SPFBL: PASS http://spfbl.r4.net.br/Kqb0iQp_hg1U9rWSU-Pq8TT-sVRCMn_IeHycCH2JT2268SNzRO9jIcndeFe3WJ6CgQ5tGfXNM1gwX80whmqTyGim2ehX1xfCt84GPxe1UO8w_GQ6iSvvy9m7FGXKhhIe
+Received-SPFBL: PASS http://spfbl.r4.net.br/OtMU8YWTuKybYq9fACeheTT-sVRCMn_IeHycCH2JT204usRJoiBXlUJUOkKd-lPkEwWpvOiHhEYx8Qf3Ja8Ck0hQMYx9J5BeaeFM0JouCeg
+Received-SPFBL: PASS http://spfbl.r4.net.br/R58SNX_WLo91aemEkp_wsDT-sVRCMn_IeHycCH2JT21wjwYmjic2x1NnHeDU11vkEl-_E21VdLa14z5XNUaLunmNUD6Q3PRNGsMv7dmOOFUfhAzsRcw3MaNp7OUCLjvX
+Received-SPFBL: PASS http://spfbl.r4.net.br/KzHXw73hv-jkMiHkQMdNNDT-sVRCMn_IeHycCH2JT22m158ueRFYU7fe4Wc9oO1GEwWpvOiHhEYx8Qf3Ja8Ck0hQMYx9J5BeaeFM0JouCeg
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+X-Antivirus: Avast (VPS 171010-0, 10/10/2017), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+--------------081B1884B5A128A6F002029A
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Bom Dia, Vinicius
+
+Segue retorno do pedido de homologação
+
+Bom dia Rafhael, • Fazer a conferência no sistema do boleto teste, se 
+será registrado com multa , juros e protesto caso haja instrução de boleto.
+Homologação Finalizada.
+1 - O cooperado deverá acessar o sicoobnet desta conta (passo a passo 
+anexo), postar arquivo de remessa teste com único título no valor de R$ 
+1,00, na opção troca de arquivo >remessa (verificar status de 
+processamento).
+2 – Efetuar o pagamento do boleto teste (que foi enviado no arquivo de 
+remessa, item 1)
+3- No dia posterior, verificar o crédito em c/c e arquivo de retorno 
+referente a liquidação.
+4- Se a liquidação estiver correta, o cooperado poderá iniciar a emissão 
+dos demais boletos.
+Após a homologação NÃO ALTERAR o sistema próprio. Caso houver a 
+necessidade de alteração, será obrigatoriamente necessário encaminhar 
+novamente os arquivos para homologação, pois o processo é indispensável.
+É indispensável a emissão e liquidação do boleto teste no valor de R$ 
+1,00 antes da emissão dos demais títulos.
+
+
+*Rafhael Guandalini Vieira*
+*Gerencia*
+Gerente de Agência
+*rafhael.guandalini@sicoobmetropolitano.com.br*
+*Fone: * (44) 3028-4158
+*www.sicoobpr.com.br*
+*Sicoob Metropolitano* - Agência Maringá Velho
+
+
+ambiente 	  Antes de imprimir pense em sua responsabilidade e
+   compromisso com o _MEIO AMBIENTE_
+
+Em 09/10/2017 13:50, SUPORTE GADM escreveu:
+>
+> Confirme o recebimento por gentileza ?
+>
+> Obrigado !
+>
+> *Paulo Vinicius C. da S. Martim*
+> Analista de suporte
+> *E:* suportegadm@ingasoft.com.br <mailto:suportegadm@ingasoft.com.br>
+> *F:* (44) 3025-5690 | 3025-5690 *C:* (44) 99854-3210
+> *T:* @<https://twitter.com/wpengine>
+>
+> *P&A E Consultoria Sistemas LTDA.*
+> Av. Carneiro Leão, 135 - Sala 604
+> Cep: 87013-932
+> Maringá-PR
+> ingasoft.com.br <https://www.ingasoft.com.br> | facebook 
+> <https://www.facebook.com/Ingasoft-Consultoria-e-Sistemas-1755679941355059/?ref=bookmarks> 
+>
+>
+>
+>
+> -------- Mensagem encaminhada --------
+> Assunto: 	Re: Fwd: Re: Emissão boletos Purific
+> Data: 	Tue, 3 Oct 2017 09:21:17 -0300
+> De: 	SUPORTE GADM <suportegadm@ingasoft.com.br>
+> Para: 	Rafhael Guandalini Vieira 
+> <rafhael.guandalini@sicoobmetropolitano.com.br>
+> CC: 	Fabio Ingasoft <fabio@ingasoft.com.br>, Thiago Ingasoft 
+> <thiago@ingasoft.com.br>, Michel Ingasoft <michel@ingasoft.com.br>, 
+> Paulo Ingasoft <paulo@ingasoft.com.br>
+>
+>
+>
+> Bom dia Rafhael,
+>
+> Como combinamos, estou lhe enviando os arquivos para que seja validado 
+> e aprovado pelo seu suporte. Após a sua analise finalizar me avise que 
+> realizaremos o último teste que é o de pagamento de um boleto de 1 
+> retorno e puxar o retorno.
+>
+> Qualquer dúvida entre em contato comigo, abraço !
+>
+> *Paulo Vinicius C. da S. Martim*
+> Analista de suporte
+> *E:* suportegadm@ingasoft.com.br <mailto:suportegadm@ingasoft.com.br>
+> *F:* (44) 3025-5690 | 3025-5690 *C:* (44) 99854-3210
+> *T:* @<https://twitter.com/wpengine>
+>
+> *P&A E Consultoria Sistemas LTDA.*
+> Av. Carneiro Leão, 135 - Sala 604
+> Cep: 87013-932
+> Maringá-PR
+> ingasoft.com.br <https://www.ingasoft.com.br> | facebook 
+> <https://www.facebook.com/Ingasoft-Consultoria-e-Sistemas-1755679941355059/?ref=bookmarks> 
+>
+>
+> Em 02/10/2017 16:20, Rafhael Guandalini Vieira escreveu:
+>>
+>>
+>>
+>> -- 
+>>
+>> *Rafhael Guandalini Vieira*
+>> *Gerencia*
+>> Gerente de Agência
+>> *rafhael.guandalini@sicoobmetropolitano.com.br*
+>> *Fone: * (44) 3028-4158
+>> *www.sicoobpr.com.br*
+>> *Sicoob Metropolitano* - Agência Maringá Velho
+>>
+>>
+>> ambiente 	  Antes de imprimir pense em sua responsabilidade e
+>>   compromisso com o _MEIO AMBIENTE_
+>>
+>
+>
+> <https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient> 
+> 	Livre de vírus. www.avast.com 
+> <https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient>. 
+>
+>
+> <#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+
+
+--------------081B1884B5A128A6F002029A
+Content-Type: multipart/related;
+ boundary="------------886333F942A0A129F6522B16"
+
+
+--------------886333F942A0A129F6522B16
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <p>Bom Dia, Vinicius</p>
+    <p>Segue retorno do pedido de homologação</p>
+    <p><span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial; display: inline
+        !important; float: none;">Bom dia Rafhael, • Fazer a conferência
+        no sistema do boleto teste, se será registrado com multa , juros
+        e protesto caso haja instrução de boleto.<span> </span></span><br
+        style="box-sizing: border-box; color: rgb(51, 51, 51);
+        font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,
+        sans-serif; font-size: 14px; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        font-weight: normal; letter-spacing: normal; orphans: 2;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(250, 250,
+        250); text-decoration-style: initial; text-decoration-color:
+        initial;">
+      <span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial; display: inline
+        !important; float: none;">Homologação Finalizada.<span> </span></span><br
+        style="box-sizing: border-box; color: rgb(51, 51, 51);
+        font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,
+        sans-serif; font-size: 14px; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        font-weight: normal; letter-spacing: normal; orphans: 2;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(250, 250,
+        250); text-decoration-style: initial; text-decoration-color:
+        initial;">
+      <span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial; display: inline
+        !important; float: none;">1 - O cooperado deverá acessar o
+        sicoobnet desta conta (passo a passo anexo), postar arquivo de
+        remessa teste com único título no valor de R$ 1,00, na opção
+        troca de arquivo &gt;remessa (verificar status de
+        processamento).<span> </span></span><br style="box-sizing:
+        border-box; color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial;">
+      <span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial; display: inline
+        !important; float: none;">2 – Efetuar o pagamento do boleto
+        teste (que foi enviado no arquivo de remessa, item 1)<span> </span></span><br
+        style="box-sizing: border-box; color: rgb(51, 51, 51);
+        font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,
+        sans-serif; font-size: 14px; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        font-weight: normal; letter-spacing: normal; orphans: 2;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(250, 250,
+        250); text-decoration-style: initial; text-decoration-color:
+        initial;">
+      <span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial; display: inline
+        !important; float: none;">3- No dia posterior, verificar o
+        crédito em c/c e arquivo de retorno referente a liquidação.<span> </span></span><br
+        style="box-sizing: border-box; color: rgb(51, 51, 51);
+        font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,
+        sans-serif; font-size: 14px; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        font-weight: normal; letter-spacing: normal; orphans: 2;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(250, 250,
+        250); text-decoration-style: initial; text-decoration-color:
+        initial;">
+      <span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial; display: inline
+        !important; float: none;">4- Se a liquidação estiver correta, o
+        cooperado poderá iniciar a emissão dos demais boletos.<span> </span></span><br
+        style="box-sizing: border-box; color: rgb(51, 51, 51);
+        font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,
+        sans-serif; font-size: 14px; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        font-weight: normal; letter-spacing: normal; orphans: 2;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(250, 250,
+        250); text-decoration-style: initial; text-decoration-color:
+        initial;">
+      <span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial; display: inline
+        !important; float: none;">Após a homologação NÃO ALTERAR o
+        sistema próprio. Caso houver a necessidade de alteração, será
+        obrigatoriamente necessário encaminhar novamente os arquivos
+        para homologação, pois o processo é indispensável.<span> </span></span><br
+        style="box-sizing: border-box; color: rgb(51, 51, 51);
+        font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial,
+        sans-serif; font-size: 14px; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        font-weight: normal; letter-spacing: normal; orphans: 2;
+        text-align: start; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(250, 250,
+        250); text-decoration-style: initial; text-decoration-color:
+        initial;">
+      <span style="color: rgb(51, 51, 51); font-family: &quot;Helvetica
+        Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;
+        font-style: normal; font-variant-ligatures: normal;
+        font-variant-caps: normal; font-weight: normal; letter-spacing:
+        normal; orphans: 2; text-align: start; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(250, 250, 250); text-decoration-style:
+        initial; text-decoration-color: initial; display: inline
+        !important; float: none;">É indispensável a emissão e liquidação
+        do boleto teste no valor de R$ 1,00 antes da emissão dos demais
+        títulos.</span></p>
+    <div class="moz-signature">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <style>
+  #nome {
+    margin-left:45.0pt;
+    margin:0cm;
+    margin-bottom:.0001pt;
+    font-size:12.0pt;
+    font-family:"Arial","sans-serif";
+  }
+  #demais {
+    margin:0cm;
+    margin-bottom:.0001pt;
+    font-size:7.5pt;
+    font-family:"Arial","sans-serif";
+    padding:0cm 0cm 0cm 0cm;
+  }
+
+  #ambiente {
+    margin:0cm;
+    margin-bottom:.0001pt;
+    color:#009900xt;
+    font-size:7.0pt;
+    font-family:"Arial","sans-serif";    
+  }
+</style><br>
+      <table id="tabela" border="0" cellpadding="0" width="284">
+        <tbody>
+          <tr>
+            <td id="nome" width="560"> <b>Rafhael Guandalini Vieira</b></td>
+          </tr>
+          <tr>
+            <td id="demais"> <strong>Gerencia</strong></td>
+          </tr>
+          <tr>
+            <td id="demais">Gerente de Agência</td>
+          </tr>
+          <tr>
+            <td>
+              <!-- Atalho imagem Windows --><img
+                src="cid:part1.8F7E7046.28B22B0E@sicoobmetropolitano.com.br"
+                height="65" width="280"> </td>
+          </tr>
+          <tr>
+            <td id="demais">
+              <!-- Colocar o e-mail nos 2 CAMPOS --> <a
+                ef="mailto:rafhael.guandalini@sicoobmetropolitano.com.br"><b>rafhael.guandalini@sicoobmetropolitano.com.br</b></a></td>
+          </tr>
+          <tr>
+            <td id="demais"> <b>Fone: </b> (44) 3028-4158<!-- Numero do TELEFONE: -->
+            </td>
+          </tr>
+          <tr>
+            <td id="demais"> <a href="www.sicoobpr.com.br"><b>www.sicoobpr.com.br</b></a><!-- Site do Sicoob -->
+            </td>
+          </tr>
+          <tr>
+            <td id="demais"> <b>Sicoob Metropolitano</b>
+              <!-- Nome do Sicoob --> - Agência Maringá Velho</td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <table id="ambiente" border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+          <tr>
+            <td width="34">
+              <!-- Imagem no Windows: --> <img
+                src="cid:part4.121DAE03.404C3828@sicoobmetropolitano.com.br"
+                alt="ambiente" height="18" border="0" width="33"> </td>
+            <td width="251">   Antes de imprimir pense em sua
+              responsabilidade e <br>
+                compromisso com o <u>MEIO AMBIENTE</u> </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="moz-cite-prefix">Em 09/10/2017 13:50, SUPORTE GADM
+      escreveu:<br>
+    </div>
+    <blockquote class=" cite"
+      id="mid_acc164ca_33be_bbb0_259b_de6fa68970bb_ingasoft_com_br"
+      cite="mid:acc164ca-33be-bbb0-259b-de6fa68970bb@ingasoft.com.br"
+      type="cite">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+      <p>Confirme o recebimento por gentileza ?</p>
+      <p>Obrigado !<br>
+      </p>
+      <div class="moz-signature">
+        <table style="font-family:'Open Sans',
+sans-serif;color:#162a33;font-style:normal;font-size:14px;margin:0px;padding:0px;border:0px;outline:0px;vertical-align:baseline;line-height:1.15;"
+          border="0" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr border="0" cellpadding="0" cellspacing="0">
+              <td border="0" cellpadding="0" cellspacing="0"> <strong
+                  style="font-size:17px;"><span class="output_full_name">Paulo
+                    Vinicius C. da S. Martim</span></strong><br>
+                <span
+                  style="color:#40bac8;font-size:12px;text-transform:uppercase;"
+                  class="output_position">Analista de suporte</span><br>
+              </td>
+            </tr>
+            <tr border="0" cellpadding="0" cellspacing="0">
+              <td border="0" cellpadding="0" cellspacing="0"> <strong
+                  style="color:#eb6126;font-size:12px;">E:</strong> <a
+                  moz-do-not-send="true" class="email_address_anchor"
+                  style="color:#a0a3a5;font-size:12px;text-decoration:none;"
+                  href="mailto:suportegadm@ingasoft.com.br"><span
+                    class="output_email_address">suportegadm@ingasoft.com.br</span></a>
+                <span class="phone_numbers_element" style="display:
+                  inline;"> <br>
+                  <span class="phone_office_element" style="display:
+                    inline;"><strong
+                      style="color:#eb6126;font-size:12px;">F:</strong>
+                    <span
+                      style="color:#a0a3a5;font-size:12px;text-decoration:none;"
+                      class="output_phone_office">(44) 3025-5690 |
+                      3025-5690</span>  </span> <span
+                    class="phone_mobile_element" style="display:
+                    inline;"><strong
+                      style="color:#eb6126;font-size:12px;">C:</strong>
+                    <span
+                      style="color:#a0a3a5;font-size:12px;text-decoration:none;"
+                      class="output_phone_mobile">(44) 99854-3210</span></span>
+                </span> <span class="twitter_element" style="display:
+                  none;"> <br>
+                  <strong style="color:#eb6126;font-size:10px;">T:</strong>
+                  <a moz-do-not-send="true" class="twitter_anchor"
+                    style="color:#a0a3a5;font-size:10px;text-decoration:none;"
+                    href="https://twitter.com/wpengine">@<span
+                      class="output_twitter_username"></span></a> </span>
+                <br>
+                <br>
+              </td>
+            </tr>
+            <tr border="0" cellpadding="0" cellspacing="0">
+              <td border="0" cellpadding="0" cellspacing="0"> <font
+                  style="margin:0;padding:0;font-size:12px;color:#a0a3a5;">
+                  <strong style="color:#162a33;"><span
+                      class="output_company_name">P&amp;A E Consultoria
+                      Sistemas LTDA.</span></strong><br>
+                  <span class="output_address_full">Av. Carneiro Leão,
+                    135 - Sala 604<br>
+                    Cep: 87013-932<br>
+                    Maringá-PR</span> </font> <br>
+              </td>
+            </tr>
+            <tr border="0" cellpadding="0" cellspacing="0">
+              <td border="0" cellpadding="0" cellspacing="0"> <font
+                  style="margin:0;padding:0;"> <span
+                    style="font-family: arial, sans-serif; font-size:
+                    12px; color: #dbdad6;"> <a moz-do-not-send="true"
+                      href="https://www.ingasoft.com.br" style=" color:
+                      #40bac8;"> ingasoft.com.br</a> | <a
+                      moz-do-not-send="true"
+href="https://www.facebook.com/Ingasoft-Consultoria-e-Sistemas-1755679941355059/?ref=bookmarks"
+                      style=" color: #40bac8;">facebook</a> </span> </font>
+              </td>
+            </tr>
+            <tr class="logo_element" border="0" cellpadding="0"
+              cellspacing="0">
+              <td border="0" cellpadding="0" cellspacing="0"><br>
+                <img moz-do-not-send="true"
+                  src="http://www.ingasoft.com.br/images/inga.png"
+                  height="45" width="229"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="moz-forward-container"><br>
+        <br>
+        -------- Mensagem encaminhada --------
+        <table class="moz-email-headers-table" border="0"
+          cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Assunto:
+              </th>
+              <td>Re: Fwd: Re: Emissão boletos Purific</td>
+            </tr>
+            <tr>
+              <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Data:
+              </th>
+              <td>Tue, 3 Oct 2017 09:21:17 -0300</td>
+            </tr>
+            <tr>
+              <th align="RIGHT" nowrap="nowrap" valign="BASELINE">De: </th>
+              <td>SUPORTE GADM <a moz-do-not-send="true"
+                  class="moz-txt-link-rfc2396E"
+                  href="mailto:suportegadm@ingasoft.com.br">&lt;suportegadm@ingasoft.com.br&gt;</a></td>
+            </tr>
+            <tr>
+              <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Para:
+              </th>
+              <td>Rafhael Guandalini Vieira <a moz-do-not-send="true"
+                  class="moz-txt-link-rfc2396E"
+                  href="mailto:rafhael.guandalini@sicoobmetropolitano.com.br">&lt;rafhael.guandalini@sicoobmetropolitano.com.br&gt;</a></td>
+            </tr>
+            <tr>
+              <th align="RIGHT" nowrap="nowrap" valign="BASELINE">CC: </th>
+              <td>Fabio Ingasoft <a moz-do-not-send="true"
+                  class="moz-txt-link-rfc2396E"
+                  href="mailto:fabio@ingasoft.com.br">&lt;fabio@ingasoft.com.br&gt;</a>,
+                Thiago Ingasoft <a moz-do-not-send="true"
+                  class="moz-txt-link-rfc2396E"
+                  href="mailto:thiago@ingasoft.com.br">&lt;thiago@ingasoft.com.br&gt;</a>,
+                Michel Ingasoft <a moz-do-not-send="true"
+                  class="moz-txt-link-rfc2396E"
+                  href="mailto:michel@ingasoft.com.br">&lt;michel@ingasoft.com.br&gt;</a>,
+                Paulo Ingasoft <a moz-do-not-send="true"
+                  class="moz-txt-link-rfc2396E"
+                  href="mailto:paulo@ingasoft.com.br">&lt;paulo@ingasoft.com.br&gt;</a></td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <br>
+        <meta http-equiv="Content-Type" content="text/html;
+          charset=utf-8">
+        <p>Bom dia Rafhael,</p>
+        <p>Como combinamos, estou lhe enviando os arquivos para que seja
+          validado e aprovado pelo seu suporte. Após a sua analise
+          finalizar me avise que realizaremos o último teste que é o de
+          pagamento de um boleto de 1 retorno e puxar o retorno.</p>
+        <p>Qualquer dúvida entre em contato comigo, abraço !<br>
+        </p>
+        <div class="moz-signature">
+          <table style="font-family:'Open Sans',
+sans-serif;color:#162a33;font-style:normal;font-size:14px;margin:0px;padding:0px;border:0px;outline:0px;vertical-align:baseline;line-height:1.15;"
+            border="0" cellpadding="0" cellspacing="0">
+            <tbody>
+              <tr border="0" cellpadding="0" cellspacing="0">
+                <td border="0" cellpadding="0" cellspacing="0"> <strong
+                    style="font-size:17px;"><span
+                      class="output_full_name">Paulo Vinicius C. da S.
+                      Martim</span></strong><br>
+                  <span
+                    style="color:#40bac8;font-size:12px;text-transform:uppercase;"
+                    class="output_position">Analista de suporte</span><br>
+                </td>
+              </tr>
+              <tr border="0" cellpadding="0" cellspacing="0">
+                <td border="0" cellpadding="0" cellspacing="0"> <strong
+                    style="color:#eb6126;font-size:12px;">E:</strong> <a
+                    class="email_address_anchor"
+                    style="color:#a0a3a5;font-size:12px;text-decoration:none;"
+                    href="mailto:suportegadm@ingasoft.com.br"
+                    moz-do-not-send="true"><span
+                      class="output_email_address">suportegadm@ingasoft.com.br</span></a>
+                  <span class="phone_numbers_element" style="display:
+                    inline;"> <br>
+                    <span class="phone_office_element" style="display:
+                      inline;"><strong
+                        style="color:#eb6126;font-size:12px;">F:</strong>
+                      <span
+                        style="color:#a0a3a5;font-size:12px;text-decoration:none;"
+                        class="output_phone_office">(44) 3025-5690 |
+                        3025-5690</span>  </span> <span
+                      class="phone_mobile_element" style="display:
+                      inline;"><strong
+                        style="color:#eb6126;font-size:12px;">C:</strong>
+                      <span
+                        style="color:#a0a3a5;font-size:12px;text-decoration:none;"
+                        class="output_phone_mobile">(44) 99854-3210</span></span>
+                  </span> <span class="twitter_element" style="display:
+                    none;"> <br>
+                    <strong style="color:#eb6126;font-size:10px;">T:</strong>
+                    <a class="twitter_anchor"
+                      style="color:#a0a3a5;font-size:10px;text-decoration:none;"
+                      href="https://twitter.com/wpengine"
+                      moz-do-not-send="true">@<span
+                        class="output_twitter_username"></span></a> </span>
+                  <br>
+                  <br>
+                </td>
+              </tr>
+              <tr border="0" cellpadding="0" cellspacing="0">
+                <td border="0" cellpadding="0" cellspacing="0"> <font
+                    style="margin:0;padding:0;font-size:12px;color:#a0a3a5;">
+                    <strong style="color:#162a33;"><span
+                        class="output_company_name">P&amp;A E
+                        Consultoria Sistemas LTDA.</span></strong><br>
+                    <span class="output_address_full">Av. Carneiro Leão,
+                      135 - Sala 604<br>
+                      Cep: 87013-932<br>
+                      Maringá-PR</span> </font> <br>
+                </td>
+              </tr>
+              <tr border="0" cellpadding="0" cellspacing="0">
+                <td border="0" cellpadding="0" cellspacing="0"> <font
+                    style="margin:0;padding:0;"> <span
+                      style="font-family: arial, sans-serif; font-size:
+                      12px; color: #dbdad6;"> <a
+                        href="https://www.ingasoft.com.br" style="
+                        color: #40bac8;" moz-do-not-send="true">
+                        ingasoft.com.br</a> | <a
+href="https://www.facebook.com/Ingasoft-Consultoria-e-Sistemas-1755679941355059/?ref=bookmarks"
+                        style=" color: #40bac8;" moz-do-not-send="true">facebook</a>
+                    </span> </font> </td>
+              </tr>
+              <tr class="logo_element" border="0" cellpadding="0"
+                cellspacing="0">
+                <td border="0" cellpadding="0" cellspacing="0"><br>
+                  <img src="http://www.ingasoft.com.br/images/inga.png"
+                    moz-do-not-send="true" height="45" width="229"></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="moz-cite-prefix">Em 02/10/2017 16:20, Rafhael
+          Guandalini Vieira escreveu:<br>
+        </div>
+        <blockquote class=" cite"
+          id="mid_5c0d1ff8_4cea_c26c_0819_6342ca982ece_sicoobmetropolitano_com_br"
+          type="cite"
+cite="mid:5c0d1ff8-4cea-c26c-0819-6342ca982ece@sicoobmetropolitano.com.br">
+          <meta http-equiv="content-type" content="text/html;
+            charset=utf-8">
+          <p><br>
+          </p>
+          <br>
+          <div class="moz-signature">-- <br>
+            <meta http-equiv="Content-Type" content="text/html;
+              charset=utf-8">
+            <style>
+  #nome {
+    margin-left:45.0pt;
+    margin:0cm;
+    margin-bottom:.0001pt;
+    font-size:12.0pt;
+    font-family:"Arial","sans-serif";
+  }
+  #demais {
+    margin:0cm;
+    margin-bottom:.0001pt;
+    font-size:7.5pt;
+    font-family:"Arial","sans-serif";
+    padding:0cm 0cm 0cm 0cm;
+  }
+
+  #ambiente {
+    margin:0cm;
+    margin-bottom:.0001pt;
+    color:#009900xt;
+    font-size:7.0pt;
+    font-family:"Arial","sans-serif";    
+  }
+</style><br>
+            <table id="tabela" border="0" cellpadding="0" width="284">
+              <tbody>
+                <tr>
+                  <td id="nome" width="560"> <b>Rafhael Guandalini
+                      Vieira</b></td>
+                </tr>
+                <tr>
+                  <td id="demais"> <strong>Gerencia</strong></td>
+                </tr>
+                <tr>
+                  <td id="demais">Gerente de Agência</td>
+                </tr>
+                <tr>
+                  <td>
+                    <!-- Atalho imagem Windows --><img
+                      src="cid:part21.AB3F83C2.209A6A68@sicoobmetropolitano.com.br"
+                      class="" height="65" width="280"> </td>
+                </tr>
+                <tr>
+                  <td id="demais">
+                    <!-- Colocar o e-mail nos 2 CAMPOS --> <a
+                      ef="mailto:rafhael.guandalini@sicoobmetropolitano.com.br"
+                      moz-do-not-send="true"><b>rafhael.guandalini@sicoobmetropolitano.com.br</b></a></td>
+                </tr>
+                <tr>
+                  <td id="demais"> <b>Fone: </b> (44) 3028-4158<!-- Numero do TELEFONE: -->
+                  </td>
+                </tr>
+                <tr>
+                  <td id="demais"> <a href="www.sicoobpr.com.br"
+                      moz-do-not-send="true"><b>www.sicoobpr.com.br</b></a><!-- Site do Sicoob -->
+                  </td>
+                </tr>
+                <tr>
+                  <td id="demais"> <b>Sicoob Metropolitano</b>
+                    <!-- Nome do Sicoob --> - Agência Maringá Velho</td>
+                </tr>
+              </tbody>
+            </table>
+            <br>
+            <table id="ambiente" border="0" cellpadding="0"
+              cellspacing="0">
+              <tbody>
+                <tr>
+                  <td width="34">
+                    <!-- Imagem no Windows: --> <img
+                      src="cid:part24.5AA30A68.CC945914@sicoobmetropolitano.com.br"
+                      alt="ambiente" class="" height="18" border="0"
+                      width="33"> </td>
+                  <td width="251">   Antes de imprimir pense em sua
+                    responsabilidade e <br>
+                      compromisso com o <u>MEIO AMBIENTE</u> </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </blockquote>
+        <br>
+      </div>
+      <div id="DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br>
+        <table style="border-top: 1px solid #D3D4DE;">
+          <tbody>
+            <tr>
+              <td style="width: 55px; padding-top: 18px;"><a
+                  moz-do-not-send="true"
+href="https://www.avast.com/sig-email?utm_medium=email&amp;utm_source=link&amp;utm_campaign=sig-email&amp;utm_content=emailclient"
+                  target="_blank"><img moz-do-not-send="true"
+src="https://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-no-repeat-v1.gif"
+                    alt="" style="width: 46px; height: 29px;"
+                    height="29" width="46"></a></td>
+              <td style="width: 470px; padding-top: 17px; color:
+                #41424e; font-size: 13px; font-family: Arial, Helvetica,
+                sans-serif; line-height: 18px;">Livre de vírus. <a
+                  moz-do-not-send="true"
+href="https://www.avast.com/sig-email?utm_medium=email&amp;utm_source=link&amp;utm_campaign=sig-email&amp;utm_content=emailclient"
+                  target="_blank" style="color: #4453ea;">www.avast.com</a>.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <a moz-do-not-send="true"
+          href="#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width="1"
+          height="1"> </a></div>
+    </blockquote>
+    <br>
+    <br>
+  </body>
+</html>
+
+--------------886333F942A0A129F6522B16
+Content-Type: image/gif;
+ name="papel_de_carta_cpa10.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <part1.8F7E7046.28B22B0E@sicoobmetropolitano.com.br>
+Content-Disposition: inline;
+ filename="papel_de_carta_cpa10.gif"
+
+R0lGODlhLAFEAPcAAP////f///3/9/7/7fb3//f39+/49/f35+/35ub39+r379737+z3zvfv
+7+/v+O/v7+bv7+jvzNrv7+jvudjv5ubm787u5+bn5uHo3t7l5t3k1tvkyuLmlt7e3tbf3sDl
+4M7h3ubmWrTm39bW1tbW3svcu87W1dDefrDd2sLY0uveFqXe1tLeWtjeIZre087OztHeLb3Y
+ltneDsLOvsXZO7/QrcTKzr7XU5fWzq/Qzq/WjMjWMbvWPcfWGcHWKcXFxb3WMYTWxYzTyaPL
+x7XFxb3OO73Dor29vrrOKbvNMa/OOqLHjn/OvX/NxbK+vLXNGJTGwbDCk5zOTq/FPHPKvrW1
+tqHHH6W2tq3FBIi9uGrGv62ytaC9d5TFP2nGtZy1rYzDSq2traLDAaS7LZ+trZqvpYm/MJS1
+a2S8tXu1rWy5rX29TlO+rY6xeWu9Z6WlrXO9QqOlpH26QG29SpSzLZOzIGmvonO1OqWlSmy1
+Sm+1QpycnkuzrZSfnlW1c260LFqtnHOtUoSlc4qlXUmyoImemj+1iGutQpOcWJSUlZGhFzSv
+nW2nSnulNWOrIoyRlGemOoGUlG2iQm2Ylhyto4yMjHOUjFqlMUijXH6OjFilE1KYlD6elACt
+nYSUEySjjGaWUoSORG6Mh4SEhASmtoSEjACplHuNDwCljHuMJHGEgAGhqXt8hHt7e1KQMWCD
+fAKcjUaUGTqMexCUnHKCJhWUhG17enCAGQCWhBWQdXNzc3Nze25/CACSkEqEMV92cwGQeUKE
+G0V7cySCeGtrc2tra2Nra1prazh7HE9rZ2NjZQR+bS52CkpjZFpcYwB3WlpbWkpdWjphWkJe
+WlJVWjFeWlJSUkpVUkpaAEpSSjpVUkJSTiJcUjFWUkpKSkpKUjBSSjVJS0JCRDZDQCFKRSlF
+QTo6OiFCPzo6QhJCOyM6OzE0NhY6NiI0MQQ6OhMxLSUpKwIyMBApKAgpJx0iIAApJwohHwAh
+HwIYGRIUEwIZEAIQEAERCAIICAABAAAAACH5BAAHAP8ALAAAAAAsAUQAAAj/AAEIHEiwoMGD
+CBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuWHX4U6JghzoiR
+BV50eMmzp8+QJsLMLNgh0ahKNxu+GVXgQbFiP1pVifhgT6I3UxUWqPLip9evYCOOODJ04BFr
+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
+wUMxuVCSltSkJ0VpSlW6UpbaLyAAOw==
+--------------886333F942A0A129F6522B16
+Content-Type: image/gif;
+ name="papel_de_carta_ambiente.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <part4.121DAE03.404C3828@sicoobmetropolitano.com.br>
+Content-Disposition: inline;
+ filename="papel_de_carta_ambiente.gif"
+
+R0lGODlhEwARAMQAAJu7Wf//zJu7eKzSy9/SeN///727Wf///73p/5vHsf/plM/HWc/esf//
+5Zu7lJnMzP/0se///9/SWc/0/6ze5azHlO/eeM/p/8/psf///wAAAAAAAAAAAAAAAAAAAAAA
+ACH5BAUUABkALAAAAAATABEAAAVZ4CGOZGmeovKgqAUAK0s2xFtN8ui+QBLlAYbhJcBcchIe
+z8dSIEQSR+EAGYgCQ6VWK8U+G4stt4Al4kxlQDe7pZCwa3HvN4qS2UrmCH4fl8BqfYEnO4M5
+JyEAOw==
+--------------886333F942A0A129F6522B16
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-ID: <part21.AB3F83C2.209A6A68@sicoobmetropolitano.com.br>
+
+R0lGODlhLAFEAPcAAP////f///3/9/7/7fb3//f39+/49/f35+/35ub39+r379737+z3zvfv
+7+/v+O/v7+bv7+jvzNrv7+jvudjv5ubm787u5+bn5uHo3t7l5t3k1tvkyuLmlt7e3tbf3sDl
+4M7h3ubmWrTm39bW1tbW3svcu87W1dDefrDd2sLY0uveFqXe1tLeWtjeIZre087OztHeLb3Y
+ltneDsLOvsXZO7/QrcTKzr7XU5fWzq/Qzq/WjMjWMbvWPcfWGcHWKcXFxb3WMYTWxYzTyaPL
+x7XFxb3OO73Dor29vrrOKbvNMa/OOqLHjn/OvX/NxbK+vLXNGJTGwbDCk5zOTq/FPHPKvrW1
+tqHHH6W2tq3FBIi9uGrGv62ytaC9d5TFP2nGtZy1rYzDSq2traLDAaS7LZ+trZqvpYm/MJS1
+a2S8tXu1rWy5rX29TlO+rY6xeWu9Z6WlrXO9QqOlpH26QG29SpSzLZOzIGmvonO1OqWlSmy1
+Sm+1QpycnkuzrZSfnlW1c260LFqtnHOtUoSlc4qlXUmyoImemj+1iGutQpOcWJSUlZGhFzSv
+nW2nSnulNWOrIoyRlGemOoGUlG2iQm2Ylhyto4yMjHOUjFqlMUijXH6OjFilE1KYlD6elACt
+nYSUEySjjGaWUoSORG6Mh4SEhASmtoSEjACplHuNDwCljHuMJHGEgAGhqXt8hHt7e1KQMWCD
+fAKcjUaUGTqMexCUnHKCJhWUhG17enCAGQCWhBWQdXNzc3Nze25/CACSkEqEMV92cwGQeUKE
+G0V7cySCeGtrc2tra2Nra1prazh7HE9rZ2NjZQR+bS52CkpjZFpcYwB3WlpbWkpdWjphWkJe
+WlJVWjFeWlJSUkpVUkpaAEpSSjpVUkJSTiJcUjFWUkpKSkpKUjBSSjVJS0JCRDZDQCFKRSlF
+QTo6OiFCPzo6QhJCOyM6OzE0NhY6NiI0MQQ6OhMxLSUpKwIyMBApKAgpJx0iIAApJwohHwAh
+HwIYGRIUEwIZEAIQEAERCAIICAABAAAAACH5BAAHAP8ALAAAAAAsAUQAAAj/AAEIHEiwoMGD
+CBMqXMiwocOHECNKnEixosWLGDNq3Mixo8ePIEOKHEmypMmTKFOqXMmypcuWHX4U6JghzoiR
+BV50eMmzp8+QJsLMLNgh0ahKNxu+GVXgQbFiP1pVifhgT6I3UxUWqPLip9evYCOOODJ04BFr
+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
+wUMxuVCSltSkJ0VpSlW6UpbaLyAAOw==
+--------------886333F942A0A129F6522B16
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-ID: <part24.5AA30A68.CC945914@sicoobmetropolitano.com.br>
+
+R0lGODlhEwARAMQAAJu7Wf//zJu7eKzSy9/SeN///727Wf///73p/5vHsf/plM/HWc/esf//
+5Zu7lJnMzP/0se///9/SWc/0/6ze5azHlO/eeM/p/8/psf///wAAAAAAAAAAAAAAAAAAAAAA
+ACH5BAUUABkALAAAAAATABEAAAVZ4CGOZGmeovKgqAUAK0s2xFtN8ui+QBLlAYbhJcBcchIe
+z8dSIEQSR+EAGYgCQ6VWK8U+G4stt4Al4kxlQDe7pZCwa3HvN4qS2UrmCH4fl8BqfYEnO4M5
+JyEAOw==
+--------------886333F942A0A129F6522B16--
+
+--------------081B1884B5A128A6F002029A--
+

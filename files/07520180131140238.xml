@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bematech>
+    <Sistema>
+        <LocalizarPorta>1</LocalizarPorta>
+        <Porta>COM9</Porta>
+        <Path>C:\LOG\BEMASAT</Path>
+        <NivelLog>1</NivelLog>
+        <ValidarParametros>1</ValidarParametros>
+    </Sistema>
+    <Timeouts>
+        <ativacao>1800000</ativacao>
+        <icp_brasil>600000</icp_brasil>
+        <consultar_sat>10000</consultar_sat>
+        <associar_assinatura>60000</associar_assinatura>
+        <consultar_sessao>60000</consultar_sessao>
+        <trocar_codigo_ativacao>60000</trocar_codigo_ativacao>
+        <bloquear_sat>1200000</bloquear_sat>
+        <desbloquear_sat>80000</desbloquear_sat>
+        <extrair_logs>180000</extrair_logs>
+        <atualizar_sat>3600000</atualizar_sat>
+        <configurar_rede>120000</configurar_rede>
+        <enviar_venda>60000</enviar_venda>
+        <cancelar_venda>60000</cancelar_venda>
+        <teste_fim_a_fim>60000</teste_fim_a_fim>
+        <consultar_status>60000</consultar_status>
+    </Timeouts>
+    <Manutencao>
+        <Sessoes>926858,544329,999918,314753,645834,843253,823650,755047,681694,157368,400659,582444,28764,865700,627018,286685,768992,5310,91142,265425,908609,755298,923773,161690,651694,774857,556754,997411,517915,780834,908035,586469,178740,823818,122414,868643,976391,855474,759150,608568,431689,527094,859317,681418,657179,625655,272702,393734,542178,955811,191711,818034,69969,451937,843483,544005,318488,862914,796939,79365,689601,875925,713723,795147,63810,546240,772443,494430,189456,375310,850408,737124,959805,460646,874366,136421,568876,192590,54168,83587,657918,556846,608,524664,76632,617189,834017,548897,887970,527860,136404,732064,845394,954750,996615,546221,792117,151661,93413,560164</Sessoes>
+    </Manutencao>
+</bematech>

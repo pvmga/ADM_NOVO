@@ -1,0 +1,198 @@
+X-Account-Key: account1
+X-UIDL: UID44096-1303902522
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys: $label4                                                                         
+Return-Path: <atendimento@maqvell.com.br>
+Delivered-To: suportelfp@ingasoft.com.br
+Received: from lx02.r4.net.br by lx02.r4.net.br with LMTP id 4ME3EhE3qFoCfwIAw6hOxQ for <suportelfp@ingasoft.com.br>; Tue, 13 Mar 2018 17:39:45 -0300
+Return-Path: <atendimento@maqvell.com.br>
+Envelope-to: suportelfp@ingasoft.com.br
+Delivery-date: Tue, 13 Mar 2018 17:39:45 -0300
+Received: from 03-srv14.grupouds.com.br ([198.143.138.3]:36660 helo=srv14.grupouds.com.br) by lx02.r4.net.br with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256) (Exim 4.89_1) (envelope-from <atendimento@maqvell.com.br>) id 1evqi1-000gdD-2Y for suportelfp@ingasoft.com.br; Tue, 13 Mar 2018 17:39:45 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;d=maqvell.com.br; s=default; h=Content-Type:MIME-Version:Message-ID:Date:Subject:In-Reply-To:References:Cc:To:From:Sender:Reply-To:Content-Transfer-Encoding:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:List-Id:List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive; bh=/vv5kk7vGk28GH0lFXgYuifdsJXPhoqunZYPSlHJDFk=; b=FkFGz4DEletX1aqsuskbLXuNpQw75hEeX+AcTffJDdRQ+5fNlQQTakRTPzHwzN31sVGJGRCibq1p391TCnP5Thf1IqqahK1NxDh9+UIkdXQ90g7aq8xZmOk8wmET2yNicpNxegUryhcW7MBDza6GNh8NRLEltTyOtZc4ldcsoegz6HXIQI2pQ+F/jaOn/lLIg436NlqqoLBrVfaE2F+JK0pdgvqvK/S5MKogg9ME7VQPY+ROFaUMGt0sbALV3hEfmt6Py7X42YYhl/6NNeQGd4pmG5aFql1VMnCnHahBh209YywhqQ3gYmVEA/hEdvsQk2eLTTwCPr9mwn7n7++vhA==;
+Received: from 179.184.9.129.static.gvt.net.br ([179.184.9.129]:50579 helo=DESKTOPKC0A813) by srv14.grupouds.com.br with esmtpa (Exim 4.89_1) (envelope-from <atendimento@maqvell.com.br>) id 1evqhH-000AUG-6W; Tue, 13 Mar 2018 17:38:59 -0300
+Return-Receipt-To: "Atendimento" <atendimento@maqvell.com.br>
+From: "Atendimento" <atendimento@maqvell.com.br>
+To: <suportelfp@ingasoft.com.br>
+Cc: "'comercial'" <comercial@maqvell.com.br>
+References: 
+In-Reply-To: 
+Subject: Desenvolvimento 
+Date: Tue, 13 Mar 2018 17:38:57 -0300
+Message-ID: <!&!AAAAAAAAAAAuAAAAAAAAAFwfluy/lIJCs3hie+JS0HYBAMO2jhD3dRHOtM0AqgC7tuYAAAAAAA4AABAAAACNwQ9pkrD0Qph6kMfNmzDEAQAAAAA=@maqvell.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001C_01D3BAF3.25BF7540"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQGOEeq1VUwd4HwYtB2Pg4pWLs0dLqRZ7+gg
+Content-Language: pt-br
+Disposition-Notification-To: "Atendimento" <atendimento@maqvell.com.br>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - srv14.grupouds.com.br
+X-AntiAbuse: Original Domain - ingasoft.com.br
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - maqvell.com.br
+X-SpamFlt-Status: Not Detected
+X-Get-Message-Sender-Via: srv14.grupouds.com.br: authenticated_id: atendimento@maqvell.com.br
+X-KASFlt-Status: maqvell.com.br:7.1.1;198.143.138.3:7.1.2;d41d8cd98f00b204e9800998ecf8427e.com:7.1.1;127.0.0.199:7.1.2
+X-KASFlt-Status: {Tracking_DKIM, one}
+X-KASFlt-Status: DmarcAF: none
+X-KASFlt-Status: Method: none
+X-KASFlt-Status: Status: not_detected
+X-KASFlt-Status: Rate: 0
+X-KASFlt-Status: Version: 5.5.10.47
+X-KASFlt-Status: Lua profiles 122489 [Mar 13 2018]
+X-KASFlt-Status: LuaCore: 112 112 e3007337d9a5c97cc9bed0a9d0f5a075ec07528f
+X-SpamFlt-Phishing: Not Detected
+X-Authenticated-Sender: srv14.grupouds.com.br: atendimento@maqvell.com.br
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.23548
+X-From-Rewrite: unmodified, already matched
+Received-SPFBL: PASS http://spfbl.r4.net.br/TKyWX7VnYIZIINjSxeLQmafPi2CBeEMYfSFPPDzr4DvqHcXrCRWu7Fq0ADP006qhPhtR5mqcql_lC9nKZqIJEs0VONJX18tWUA7fvQD_vdE1vmQoQCpbqYTY9zmfskJV
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_001C_01D3BAF3.25BF7540
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+Boa tarde,
+
+=20
+
+Conforme conversado com o Alexandre, necessito que seja desenvolvido:
+
+=20
+
+Ao gerar um venda, sendo simples remessa, e onde o frete =E9 por conta =
+do
+emitente, necessito que seja lan=E7ado o frete, em contas a pagar,
+automaticamente.=20
+
+=20
+
+Atualmente ao fazer a nota de simples remessa e com o frete por conta do
+emitente, lan=E7amos manualmente em contas a pagar o frete tratado, =
+por=E9m=20
+
+=C0s vezes o usu=E1rio/funcion=E1rio que est=E1 fazendo o processo =
+esquece de
+lan=E7ar, assim ocasionando problemas para o financeiro.=20
+
+=20
+
+=20
+
+=20
+
+Fico no aguardo.
+
+=20
+
+=20
+
+=20
+
+Att.
+
+Bruna Vellanga
+
+Maqvell
+
+
+------=_NextPart_000_001C_01D3BAF3.25BF7540
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EstiloDeEmail18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EstiloDeEmail19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DPT-BR =
+link=3D"#0563C1" vlink=3D"#954F72"><div class=3DWordSection1><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Boa =
+tarde,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Conforme conversado com o Alexandre, necessito que =
+seja desenvolvido:<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Ao gerar um =
+venda, sendo simples remessa, e onde o frete =E9 por conta do emitente, =
+necessito que seja lan=E7ado o frete, em contas a pagar, =
+automaticamente. <o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Atualmente =
+ao fazer a nota de simples remessa e com o frete por conta do emitente, =
+lan=E7amos manualmente em contas a pagar o frete tratado, por=E9m =
+<o:p></o:p></p><p class=3DMsoNormal>=C0s vezes o usu=E1rio/funcion=E1rio =
+que est=E1 fazendo o processo esquece de lan=E7ar, assim ocasionando =
+problemas para o financeiro. <o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Fico no =
+aguardo.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Att.<o:p></o:p></p><p class=3DMsoNormal>Bruna =
+Vellanga<o:p></o:p></p><p =
+class=3DMsoNormal>Maqvell<o:p></o:p></p></div></body></html>
+------=_NextPart_000_001C_01D3BAF3.25BF7540--
+
+
